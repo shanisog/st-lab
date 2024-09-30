@@ -1,6 +1,6 @@
 #include<stdio.h>
 int check(int day,int month){
-if((month==4||month==6||month=9||month=11||)&&day=31||)
+if((month==4||month==6||month==9||month==11)&&day==31)
 return 1;
 else
 return 0;
